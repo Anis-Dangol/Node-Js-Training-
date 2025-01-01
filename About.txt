@@ -1,0 +1,2 @@
+In Mongoose, a schema is a JavaScript object that defines the structure and validation rules for documents in a MongoDB collection. It’s a way to define a blueprint or a template for your data, specifying the fields, their data types, and any additional constraints or behaviors.
+

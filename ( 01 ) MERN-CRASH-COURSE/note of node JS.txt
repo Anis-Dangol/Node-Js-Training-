@@ -1,0 +1,55 @@
+For Frontend startup
+---------------------------------------------------------------------------------------------------------------------------------------------------
+PS D:\( 02 ) Study\( 04 ) My Projects\( 04 ) 23 Hours Free Coding Bootcamp\(01)MERN-CRASH-COURSE> cd .\frontend\
+PS D:\( 02 ) Study\( 04 ) My Projects\( 04 ) 23 Hours Free Coding Bootcamp\(01)MERN-CRASH-COURSE\frontend> npm create vite@latest .
+
+Need to install the following packages:
+create-vite@6.1.1
+Ok to proceed? (y) y
+
+> (01)MERN-CRASH-COURSE@1.0.0 npx
+> create-vite .
+
+? Select a framework: » - Use arrow-keys. Return to submit.
+√ Select a framework: » React
+√ Select a variant: » JavaScript
+
+Scaffolding project in D:\( 02 ) Study\( 04 ) My Projects\( 04 ) 23 Hours Free Coding Bootcamp\(01)MERN-CRASH-COURSE\frontend...
+
+Done. Now run:
+
+  npm install
+  npm run dev
+
+PS D:\( 02 ) Study\( 04 ) My Projects\( 04 ) 23 Hours Free Coding Bootcamp\(01)MERN-CRASH-COURSE\frontend> npm i
+
+added 256 packages, and audited 257 packages in 19s
+
+107 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS D:\( 02 ) Study\( 04 ) My Projects\( 04 ) 23 Hours Free Coding Bootcamp\(01)MERN-CRASH-COURSE\frontend> npm i @chakra-ui/react @emotion/react
+
+added 115 packages, and audited 372 packages in 33s
+
+109 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS D:\( 02 ) Study\( 04 ) My Projects\( 04 ) 23 Hours Free Coding Bootcamp\(01)MERN-CRASH-COURSE\frontend> npx @chakra-ui/cli snippet add
+Need to install the following packages:
+@chakra-ui/cli@3.2.4
+Ok to proceed? (y) y
+
+┌  Chakra CLI ⚡️
+│
+●  No component(s) selected, adding recommended snippets...
+│
+◇  Installing required dependencies...
+│
+◇  Writing file dependencies
+│
+◇  Writing selected snippets
+│
+└  🎉 Done!
